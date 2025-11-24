@@ -1,0 +1,1 @@
+Điều gì sẽ xảy ra nếu ta quên gọi session_start() trong welcome.php nhưng vẫn cố truy cập $_SESSION? Tại sao PHP không tự động tạo session mà lại bắt lập trình viên phải gọi session_start() thủ công?
